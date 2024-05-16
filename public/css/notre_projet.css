@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+body{
+    background-image: url(../images/Login_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box-area{
+    width: 900px;
+}
+
+svg{
+    margin-left: 45%;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color:#222;
+}
+
+
+
+
+
+
